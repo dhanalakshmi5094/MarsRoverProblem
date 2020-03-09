@@ -1,0 +1,7 @@
+/venv
+*idea
+marsrover/__pycache__/
+spec/__pycache__/
+.mypy_cache/
+.vscode/
+marsrover/__init__.pyc
